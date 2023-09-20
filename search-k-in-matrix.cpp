@@ -87,3 +87,5 @@ int main()
     if (flag == 0)
         std ::cout << "Element not present in the array !";
 }
+
+// I learnt a lot of things while working on this code 
